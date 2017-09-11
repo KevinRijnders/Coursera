@@ -1,0 +1,32 @@
+#header-nav { 
+  border-radius:0;
+  border: 0;
+}
+
+#nav-list{
+  margin-top: 10px;
+}
+
+#nav-list a{
+  color: #601c1c;
+  text-align: center
+}
+
+#nav-list a:hover{
+  color: #BCBCBC;
+}
+#header{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.card-header{
+  text-align: center; 
+}
+
+.content-box{
+  background-color: #601c1c;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
